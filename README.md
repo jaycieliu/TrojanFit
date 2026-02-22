@@ -114,6 +114,7 @@ The project defines product metrics across the funnel:
 
 ## Prototype / Artifacts
 - **Figma prototype:** [TrojanFit App Design (Figma)](https://www.figma.com/make/vkWLbnDg35jP7ZxdH1Agvz/TrojanFit-App-Design?fullscreen=1&t=aAO8ZtbcfYSlinPy-1)
+- **Case slides:** [TrojanFit App Case Slides](slides/AI_Case_Competition_TrojanFit.pdf)
 
 ## My Contribution
 - Survey insight synthesis / problem framing
