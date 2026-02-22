@@ -13,17 +13,15 @@ Key insights from the survey:
 - **Average stress level = 4/5 (High / Very High)**
 - **55%** reported being more activated with **social partners**
 - TrojanFit was framed as a **community and AI-driven fitness platform** with personalized experience design
-![barriers](figures/biggest_barrier.png)
-![stress](figures/Stress_level_distribution.png)
-![partners](figures/likely_with_partners.png)
+
 <p align="center">
-  <img src="figures/biggest_barrier.png" alt="TrojanFit insights overview" width="1200"/>
+  <img src="figures/biggest_barrier.png" alt="TrojanFit insights overview" width="600"/>
 </p>
 <p align="center">
-  <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="1200"/>
+  <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="600"/>
 </p>
 <p align="center">
-  <img src="figures/likely_with_partners.png" alt="TrojanFit insights overview" width="1200"/>
+  <img src="figures/likely_with_partners.png" alt="TrojanFit insights overview" width="600"/>
 </p>
 
 These findings shaped the product direction: combine **AI personalization** with **social + scheduling support** rather than building just another fitness tracker.
