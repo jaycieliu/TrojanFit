@@ -15,16 +15,9 @@ Key insights from the survey:
 - TrojanFit was framed as a **community and AI-driven fitness platform** with personalized experience design
 
 <p align="left">
-  <img src="figures/biggest_barrier.png" alt="TrojanFit insights overview" width="400"/>
-  <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="400"/>
-  <img src="figures/likely_with_partners.png" alt="TrojanFit insights overview" width="400"/>
-</p>
-
-<p align="center">
-  <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="400"/>
-</p>
-<p align="right">
-  <img src="figures/likely_with_partners.png" alt="TrojanFit insights overview" width="400"/>
+  <img src="figures/biggest_barrier.png" alt="TrojanFit insights overview" width="200"/>
+  <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="200"/>
+  <img src="figures/likely_with_partners.png" alt="TrojanFit insights overview" width="200"/>
 </p>
 
 These findings shaped the product direction: combine **AI personalization** with **social + scheduling support** rather than building just another fitness tracker.
