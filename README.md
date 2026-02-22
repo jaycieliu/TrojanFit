@@ -16,7 +16,10 @@ Key insights from the survey:
 
 <p align="left">
   <img src="figures/biggest_barrier.png" alt="TrojanFit insights overview" width="400"/>
+  <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="400"/>
+  <img src="figures/likely_with_partners.png" alt="TrojanFit insights overview" width="400"/>
 </p>
+
 <p align="center">
   <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="400"/>
 </p>
