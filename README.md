@@ -16,6 +16,15 @@ Key insights from the survey:
 ![barriers](figures/biggest_barrier.png)
 ![stress](figures/Stress_level_distribution.png)
 ![partners](figures/likely_with_partners.png)
+<p align="center">
+  <img src="figures/biggest_barrier.png" alt="TrojanFit insights overview" width="1200"/>
+</p>
+<p align="center">
+  <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="1200"/>
+</p>
+<p align="center">
+  <img src="figures/likely_with_partners.png" alt="TrojanFit insights overview" width="1200"/>
+</p>
 
 These findings shaped the product direction: combine **AI personalization** with **social + scheduling support** rather than building just another fitness tracker.
 
