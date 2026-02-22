@@ -113,7 +113,7 @@ The project defines product metrics across the funnel:
 - Weekly / monthly retention rate
 
 ## Prototype / Artifacts
-- **Figma prototype:** [TrojanFit App Design (Figma)](https://www.figma.com/make/vkWLbnDg35jP7ZxdH1Agvz/TrojanFit-App-Design?t=TVaXFpjHi8ochTbz-1)
+- **Figma prototype:** [TrojanFit App Design (Figma)](https://www.figma.com/make/vkWLbnDg35jP7ZxdH1Agvz/TrojanFit-App-Design?fullscreen=1&t=aAO8ZtbcfYSlinPy-1)
 
 ## My Contribution
 - Survey insight synthesis / problem framing
