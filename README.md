@@ -14,7 +14,7 @@ Key insights from the survey:
 - **55%** reported being more activated with **social partners**
 - TrojanFit was framed as a **community and AI-driven fitness platform** with personalized experience design
 
-<p align="left">
+<p align="center">
   <img src="figures/biggest_barrier.png" alt="TrojanFit insights overview" width="300"/>
   <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="300"/>
   <img src="figures/likely_with_partners.png" alt="TrojanFit insights overview" width="300"/>
