@@ -79,7 +79,7 @@ TrojanFit’s differentiator is the **combination** of:
 - Trojan-centric community focus
 - AI-powered scheduling and recommendation flows
 
-## GTM / Business Thinking (Case Competition Scope)
+## GTM / Business Thinking
 The project also includes early go-to-market and business model thinking:
 
 ### Launch strategy (phased)
@@ -113,18 +113,13 @@ The project defines product metrics across the funnel:
 - Weekly / monthly retention rate
 
 ## Prototype / Artifacts
-- **Figma prototype:** [TrojanFit App Design (Figma)](https://www.figma.com/make/vkWLbnDg35jP7ZxdH1Agvz/TrojanFit-App-Design?p=f&t=JOhMgzLVD3FMIzYH-0)
-- **Case competition deck:** `AI Case Competition TrojanFit.pptx`
+- **Figma prototype:** [TrojanFit App Design (Figma)]([https://www.figma.com/make/vkWLbnDg35jP7ZxdH1Agvz/TrojanFit-App-Design?t=TVaXFpjHi8ochTbz-1])
 
 ## My Contribution
-*(Customize this to your exact role — suggested wording below)*
-
-Possible contribution framing:
 - Survey insight synthesis / problem framing
 - Product feature ideation and prioritization
 - AI recommendation workflow / logic framing
 - Prototype flow design (Figma)
-- KPI definition and product success metrics
 - Deck structuring / storytelling support
 
 ## Future Improvements
