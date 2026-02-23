@@ -46,6 +46,7 @@ We conducted a survey with **USC MSBA students (N=46)** to understand barriers t
 > **Design implication:** TrojanFit was framed not as another tracker, but as an **activation system** that combines AI recommendations with social and scheduling support.
 
 ![Survey Insights Overview](figures/survey_insights_overview.png)
+*Figure: Survey insights used to identify activation barriers and inform feature design.*
 
 ---
 
@@ -66,21 +67,28 @@ TrojanFit uses AI as a **workflow layer** to support decision-making and follow-
 ## How It Works (High-Level User Journey)
 
 ![TrojanFit How It Works](figures/how_it_works1.png)
-
+*Figure: High-level user journey from onboarding and preference setup to AI matching and social participation.*
 ---
 
 ## Core Features (Prototype Scope)
 
-![core features](figures/app2.png)
 
 ### 1) Onboarding & Personalization
+
+![Onboarding](figures/app1.png)
+
 Builds the personalization foundation by collecting user context:
 - USC sign-in and profile setup
 - Interests and skill levels (e.g., Beginner / Intermediate / Advanced)
 - Professional / demographic inputs (optional)
 - Calendar sync entry point
 
-![Onboarding](figures/app1.png)
+---
+### Feature Interface Overview
+
+![Feature interface overview](figures/app2.png)
+
+*Figure: Core product surfaces across Feed, Calendar, Map, and Profile/Chat experiences.*
 
 ---
 
@@ -200,7 +208,7 @@ TrojanFit sits between:
 ---
 
 ## My Contribution
-
+I contributed across problem framing, product design, and AI workflow definition, with a focus on translating research insights into a usable prototype experience.
 - Survey insight synthesis and problem framing
 - Product feature ideation and prioritization
 - AI recommendation workflow / logic framing
