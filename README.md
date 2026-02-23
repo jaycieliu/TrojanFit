@@ -75,7 +75,7 @@ TrojanFit uses AI as a **workflow layer** to support decision-making and follow-
 
 ### 1) Onboarding & Personalization
 
-![Onboarding](figures/app1.png)
+![Onboarding](figures/app2.png)
 
 Builds the personalization foundation by collecting user context:
 - USC sign-in and profile setup
@@ -86,7 +86,7 @@ Builds the personalization foundation by collecting user context:
 ---
 ### Feature Interface Overview
 
-![Feature interface overview](figures/app2.png)
+![Feature interface overview](figures/app1.png)
 
 *Figure: Core product surfaces across Feed, Calendar, Map, and Profile/Chat experiences.*
 
