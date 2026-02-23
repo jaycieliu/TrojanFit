@@ -71,6 +71,8 @@ TrojanFit uses AI as a **workflow layer** to support decision-making and follow-
 
 ## Core Features (Prototype Scope)
 
+![core features](figures/app2.png)
+
 ### 1) Onboarding & Personalization
 Builds the personalization foundation by collecting user context:
 - USC sign-in and profile setup
@@ -88,8 +90,6 @@ A personalized “mission control” feed designed to reduce search effort and i
 - Personalized recommendations
 - Category filters (e.g., basketball, tennis, yoga)
 - Fast event cards with quick decision cues
-
-![Home Feed / Discovery](figures/app2.png)
 
 ---
 
