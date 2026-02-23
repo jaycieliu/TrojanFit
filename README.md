@@ -32,7 +32,7 @@ TrojanFit is a **community and AI-driven fitness platform** that helps students:
 The design goal is to make wellness engagement more actionable, social, and sustainable.
 
 ## Core Features (Prototype Scope)
-![TrojanFit How It Works](figures/workflow1.png)
+![TrojanFit How It Works](figures/how_it_works1.png)
 
 ### 1) App Onboarding & Personalization
 - Collects personal / demographic / professional information
@@ -41,7 +41,7 @@ The design goal is to make wellness engagement more actionable, social, and sust
 
 ![TrojanFit How It Works](figures/app1.png)
 
-![TrojanFit How It Works](figures/workflow2.png)
+![TrojanFit How It Works](figures/how_it_works2.png)
 
 ### 2) Intelligent Home Feed
 - Real-time discovery of trending activities
