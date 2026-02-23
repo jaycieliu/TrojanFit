@@ -16,7 +16,7 @@ Instead of treating wellness as a content problem, TrojanFit focuses on **activa
 
 ### Links
 - **Figma Prototype:** [TrojanFit App Design (Figma)](https://www.figma.com/make/vkWLbnDg35jP7ZxdH1Agvz/TrojanFit-App-Design?fullscreen=1&t=aAO8ZtbcfYSlinPy-1)
-- **Case Slides:** [TrojanFit App Case Slides](slides/AI_Case_Competition_TrojanFit.pdf)
+- **Case Slides:** [TrojanFit App Case Slides](Slides/AI_Case_Competition_TrojanFit.pdf)
 
 ---
 
