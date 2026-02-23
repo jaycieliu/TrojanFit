@@ -66,7 +66,7 @@ TrojanFit uses AI as a **workflow layer** to support decision-making and follow-
 
 ## How It Works (High-Level User Journey)
 
-![TrojanFit How It Works](figures/how_it_works2.png)
+![TrojanFit How It Works](figures/how_it_works1.png)
 *Figure: End-to-end workflow from login → profile setup → interest selection → calendar sync → AI matching → social participation.*
 
 ---
