@@ -68,6 +68,7 @@ TrojanFit uses AI as a **workflow layer** to support decision-making and follow-
 
 ![TrojanFit How It Works](figures/how_it_works1.png)
 *Figure: High-level user journey from onboarding and preference setup to AI matching and social participation.*
+
 ---
 
 ## Core Features (Prototype Scope)
@@ -75,13 +76,14 @@ TrojanFit uses AI as a **workflow layer** to support decision-making and follow-
 
 ### 1) Onboarding & Personalization
 
-![Onboarding](figures/app2.png)
-
 Builds the personalization foundation by collecting user context:
 - USC sign-in and profile setup
 - Interests and skill levels (e.g., Beginner / Intermediate / Advanced)
 - Professional / demographic inputs (optional)
 - Calendar sync entry point
+
+![Onboarding](figures/app2.png)
+*Figure: Onboarding and profile personalization workflow, including USC login, profile setup, interest selection, skill configuration, and optional profile details.*
 
 ---
 ### Feature Interface Overview
