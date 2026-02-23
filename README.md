@@ -86,11 +86,11 @@ Builds the personalization foundation by collecting user context:
 *Figure: Onboarding and profile personalization workflow, including USC login, profile setup, interest selection, skill configuration, and optional profile details.*
 
 ---
-### Feature Interface Overview
+### Interface Overview
 
 ![Feature interface overview](figures/app1.png)
 
-*Figure: Core product surfaces across Feed, Calendar, Map, and Profile/Chat experiences.*
+*Figure: Core interface surfaces shown after onboarding, including Feed, Calendar, Map, and Profile/Chat experiences.*
 
 ---
 
