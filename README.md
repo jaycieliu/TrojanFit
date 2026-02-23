@@ -33,11 +33,15 @@ The design goal is to make wellness engagement more actionable, social, and sust
 
 ## Core Features (Prototype Scope)
 ![TrojanFit How It Works](figures/workflow1.png)
-![TrojanFit How It Works](figures/app1.png)
+
 ### 1) App Onboarding & Personalization
 - Collects personal / demographic / professional information
 - Captures fitness skill level (Beginner / Intermediate / Advanced)
 - Builds a personalized experience foundation
+
+![TrojanFit How It Works](figures/app1.png)
+
+![TrojanFit How It Works](figures/workflow2.png)
 
 ### 2) Intelligent Home Feed
 - Real-time discovery of trending activities
@@ -63,7 +67,9 @@ The design goal is to make wellness engagement more actionable, social, and sust
 - Event inputs include date/time, venue proximity, and attendees
 - Profile and chat features for event groups / individuals
 - Event history, skill level, and status tracking
-  
+
+![TrojanFit How It Works](figures/app2.png)
+
 ## AI Product Logic (How AI creates value)
 TrojanFit uses AI as a **workflow layer**, not just a chatbot feature.
 
