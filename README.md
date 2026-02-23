@@ -1,117 +1,193 @@
-# TrojanFit: AI Wellness App Prototype (Case Competition)
+# TrojanFit
+**AI Wellness & Fitness Community App Prototype (Case Competition)**
+
+TrojanFit is an **AI-enabled wellness and fitness networking app prototype** designed to help students discover activities, coordinate with peers, and take action under real schedule constraints.
+
+Instead of treating wellness as a content problem, TrojanFit focuses on **activation** — reducing the friction between *wanting to be active* and *actually joining an activity*.
+
+---
+
+## Project Snapshot
+
+- **Type:** AI product / case competition / prototype
+- **Focus:** AI personalization + social activation + schedule-aware recommendations
+- **Artifacts:** Figma prototype, case slides, survey-based user research
+- **Target Users:** USC students (initial concept tested with USC MSBA cohort)
+
+### Links
+- **Figma Prototype:** [TrojanFit App Design (Figma)](https://www.figma.com/make/vkWLbnDg35jP7ZxdH1Agvz/TrojanFit-App-Design?fullscreen=1&t=aAO8ZtbcfYSlinPy-1)
+- **Case Slides:** [TrojanFit App Case Slides](slides/AI_Case_Competition_TrojanFit.pdf)
+
+---
 
 ## Overview
-TrojanFit is an AI-enabled wellness and fitness networking app prototype designed for students. The project was developed as a case competition concept and combines **user research**, **AI-assisted personalization**, and **community-based activation** to improve wellness engagement.
 
-Rather than framing wellness as a content problem alone, TrojanFit focuses on **activation**: helping students discover relevant activities, coordinate with others, and take action within real scheduling constraints.
+TrojanFit is a **community and AI-driven fitness platform** that combines:
 
-## Why this opportunity exists (User Research)
-We conducted a survey with **USC MSBA students (N=46)** to understand student wellness and fitness barriers.
+- **Personalized event discovery**
+- **Schedule-aware recommendations**
+- **Social coordination and accountability**
+- **Campus-centered wellness engagement**
 
-Key insights from the survey:
+The goal is to make wellness participation more **actionable, social, and sustainable** — not just informative.
+
+---
+
+## Why This Opportunity Exists (User Research)
+
+We conducted a survey with **USC MSBA students (N=46)** to understand barriers to wellness and fitness engagement.
+
+### Key Insights
 - **83%** reported barriers related to **time and energy**
-- **Average stress level = 4/5 (High / Very High)**
-- **55%** reported being more activated with **social partners**
-- TrojanFit was framed as a **community and AI-driven fitness platform** with personalized experience design
+- **Average stress level = 4/5** (High / Very High)
+- **55%** reported stronger activation when they had **social partners**
+- Students responded positively to the idea of an **AI + community-driven** wellness platform
 
-<p align="center">
-  <img src="figures/biggest_barrier.png" alt="TrojanFit insights overview" width="300"/>
-  <img src="figures/Stress_level_distribution.png" alt="TrojanFit insights overview" width="300"/>
-  <img src="figures/likely_with_partners.png" alt="TrojanFit insights overview" width="300"/>
-</p>
+> **Design implication:** TrojanFit was framed not as another tracker, but as an **activation system** that combines AI recommendations with social and scheduling support.
 
-These findings shaped the product direction: combine **AI personalization** with **social + scheduling support** rather than building just another fitness tracker.
+![Survey Insights Overview](figures/survey_insights_overview.png)
+*Figure: Survey findings used to frame problem, barriers, and design direction.*
+
+---
 
 ## Product Concept
-TrojanFit is a **community and AI-driven fitness platform** that helps students:
-- discover activities and events
-- get recommendations based on schedule and preferences
-- coordinate with peers
-- take action with less planning friction
 
-The design goal is to make wellness engagement more actionable, social, and sustainable.
+TrojanFit helps students:
 
-## Core Features (Prototype Scope)
-![TrojanFit How It Works](figures/how_it_works1.png)
+- **Discover** relevant activities and events
+- **Get recommendations** based on preferences and schedule
+- **Coordinate** with peers for accountability
+- **Act quickly** with less planning friction
 
-### 1) App Onboarding & Personalization
-- Collects personal / demographic / professional information
-- Captures fitness skill level (Beginner / Intermediate / Advanced)
-- Builds a personalized experience foundation
+### Core Product Thesis
+TrojanFit uses AI as a **workflow layer** to support decision-making and follow-through — not just as a chatbot feature.
 
-![TrojanFit How It Works](figures/app1.png)
+---
+
+## How It Works (High-Level User Journey)
 
 ![TrojanFit How It Works](figures/how_it_works2.png)
+*Figure: End-to-end workflow from login → profile setup → interest selection → calendar sync → AI matching → social participation.*
+
+---
+
+## Core Features (Prototype Scope)
+
+### 1) Onboarding & Personalization
+![Onboarding](figures/app1.png)
+Builds the personalization foundation by collecting user context:
+- USC sign-in and profile setup
+- Interests and skill levels (e.g., Beginner / Intermediate / Advanced)
+- Professional / demographic inputs (optional)
+- Calendar sync entry point
+
+![Onboarding Flow](figures/how_it_works1.png)
+*Figure: TrojanFit onboarding and personalization workflow.*
+
+---
 
 ### 2) Intelligent Home Feed
-- Real-time discovery of trending activities
-- Personalized feed designed to reduce searching and increase action
-- “Mission control” style home screen for fast decision-making
+A personalized “mission control” feed designed to reduce search effort and increase action.
+- Trending and nearby activities
+- Personalized recommendations
+- Category filters (e.g., basketball, tennis, yoga)
+- Fast event cards with quick decision cues
 
-### 3) AI Recommendations & Calendar Integration
-- AI-powered event recommendations tailored to the user’s schedule
-- Calendar sync with external calendars + TrojanFit events
-- Smart availability check to reduce scheduling friction
+![Home Feed / Discovery](figures/app2.png)
+*Figure: Feed and discovery experience within the prototype.*
+
+---
+
+### 3) AI Recommendations + Calendar Integration
+TrojanFit uses availability and preferences to recommend activities that fit the user’s real schedule.
+- Weekly planning interface
+- Availability-aware activity suggestions
+- Calendar sync to reduce scheduling friction
+- Agenda visibility to support follow-through
+
+---
 
 ### 4) AI-Powered Search
-- Natural-language search for events / activities
-- Contextual query understanding for easier discovery
+Natural-language search helps users discover activities more efficiently.
+- Query-based event discovery
+- Contextual search intent (e.g., activity type, time, location)
+- Reduced planning friction through faster filtering
 
-### 5) Interactive Map
-- Nearby events and locations displayed on an interactive map
-- Clickable event details and navigation support
-- Fitness + networking event discovery in one experience
+---
 
-### 6) Event Setup & Social Layer
-- Create **networking** or **sports** events
-- Event inputs include date/time, venue proximity, and attendees
-- Profile and chat features for event groups / individuals
-- Event history, skill level, and status tracking
+### 5) Interactive Map Experience
+Map-based exploration supports location-aware discovery and quick action.
+- Nearby events displayed as pins
+- Clickable event details and previews
+- Navigation-friendly event exploration
+- Integration of fitness + networking opportunities
 
-![TrojanFit How It Works](figures/app2.png)
+---
 
-## AI Product Logic (How AI creates value)
-TrojanFit uses AI as a **workflow layer**, not just a chatbot feature.
+### 6) Social Layer: Event Setup, Groups, and Chat
+TrojanFit includes a social coordination layer to improve accountability and retention.
+- Create sports or networking events
+- Manage event details (time, venue, participants)
+- Profile and group chat features
+- Event history, skill level visibility, and participation status
 
-High-level decision flow:
-1. Collect user signals (profile, skill level, preferences, calendar availability)
-2. Interpret context (time constraints, activity type, schedule fit)
-3. Recommend relevant events / activities
-4. Present actions through feed + map + search
-5. Support follow-through via social connection, event setup, and chat
+---
 
-This design combines personalization with behavioral activation and social accountability.
+## AI Product Logic (How AI Creates Value)
+
+TrojanFit uses AI as a **decision-support and activation layer** across the user workflow.
+
+### High-Level AI Flow
+1. **Collect user signals**  
+   (profile, skill level, preferences, availability)
+2. **Interpret context**  
+   (time constraints, activity type, schedule fit)
+3. **Generate recommendations**  
+   (events / activities likely to be relevant and actionable)
+4. **Present options through product surfaces**  
+   (feed, search, map, calendar)
+5. **Support follow-through**  
+   (social connection, event setup, chat, reminders)
+
+> This design combines **personalization + behavioral activation + social accountability**.
+
+---
 
 ## Competitive Positioning
-The project positions TrojanFit in the gap between:
-- fitness-focused platforms (tracking / training / classes)
-- social/community platforms
 
-TrojanFit’s differentiator is the **combination** of:
-- fitness + networking
-- Trojan-centric community focus
-- AI-powered scheduling and recommendation flows
+TrojanFit sits between:
+- **Fitness-focused platforms** (tracking / classes / training)
+- **Social/community platforms** (connection without wellness-specific activation logic)
 
-## GTM / Business Thinking
-The project also includes early go-to-market and business model thinking:
+### Differentiation
+- **Fitness + networking** in one experience
+- **Trojan/USC-centered community focus**
+- **AI-powered scheduling and recommendation workflow**
+- **Action-first design** (reduce planning friction, increase participation)
 
-### Launch strategy (phased)
-- **Pre-launch:** recruit seed users and run beta testing
-- **Official launch:** drive adoption in the MSBA community
-- **Expansion:** improve product using feedback and expand partnerships
+---
 
-### Channels (examples)
-- social media / influencer-led student promotion
-- MSBA email loop
-- on-campus flyers and events
-- club and campus partnerships
+## GTM / Business Thinking (Early Concept)
 
-### Business model (early concept)
-- B2B sponsorship
-- Event host commission fees
+### Launch Strategy (Phased)
+- **Pre-launch:** recruit seed users, prototype testing, feedback loop
+- **Official launch:** MSBA community activation and campus pilots
+- **Expansion:** partnerships, product iteration, broader student adoption
+
+### Candidate Acquisition Channels
+- Student social media / creator-led promotion
+- MSBA email loop and cohort communities
+- On-campus flyers and events
+- Clubs and campus partnerships
+
+### Early Business Model Ideas
+- B2B sponsorships
+- Event-host commission fees
+- Campus partnership programs
+
+---
 
 ## Success Metrics (KPI Framework)
-The project defines product metrics across the funnel:
 
 ### User Acquisition
 - Download rate
@@ -123,22 +199,26 @@ The project defines product metrics across the funnel:
 - Daily Active Users (DAU)
 
 ### Retention
-- Weekly / monthly retention rate
+- Weekly retention rate
+- Monthly retention rate
 
-## Prototype / Artifacts
-- **Figma prototype:** [TrojanFit App Design (Figma)](https://www.figma.com/make/vkWLbnDg35jP7ZxdH1Agvz/TrojanFit-App-Design?fullscreen=1&t=aAO8ZtbcfYSlinPy-1)
-- **Case slides:** [TrojanFit App Case Slides](slides/AI_Case_Competition_TrojanFit.pdf)
+---
 
 ## My Contribution
-- Survey insight synthesis / problem framing
+
+- Survey insight synthesis and problem framing
 - Product feature ideation and prioritization
 - AI recommendation workflow / logic framing
 - Prototype flow design (Figma)
-- Deck structuring / storytelling support
+- Deck structuring and storytelling support
+
+---
 
 ## Future Improvements
-- Add stronger personalization using longitudinal behavior data
-- Build MVP analytics instrumentation for event funnels
-- Add experiment design for nudge timing / recommendation quality
-- Expand map coverage (on-campus + off-campus fitness hotspots)
-- Add club collaboration tools and admin workflows
+
+- Stronger personalization using longitudinal behavior data
+- MVP analytics instrumentation for event funnels
+- Experiment design for nudge timing and recommendation quality
+- Expanded map coverage (on-campus + nearby neighborhoods)
+- Club collaboration tools and admin workflows
+
